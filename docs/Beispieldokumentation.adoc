@@ -4,6 +4,7 @@ Banu Gürel banu.guerel@htw-dresden.de
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlightjs
+:xrefstyle: full | short | basic
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -70,5 +71,8 @@ int main(int argc, char* argv[])
 }
 
 
-== Bilder
+=== Bilder
 
+image::Screenshot.png[]
+
+=== Verweise
